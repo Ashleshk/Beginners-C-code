@@ -1,5 +1,5 @@
 # Beginners-C-code
-
+## Codes structure
 ## distinct charaters in multi array
 
 this C program enables user to find and print distinct element s in two arrays using simple for loop
